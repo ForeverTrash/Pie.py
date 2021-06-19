@@ -1,13 +1,3 @@
-"""
-#Creates a list with three options
-fruits = ["boy", "girl", "other"]
-#Assigns variables to each item on the list (unpack)
-x, y, z = fruits
-print(x, y, z)
-w = input("What other sexuality is there?: ")
-fruits.append(w)
-print(fruits)
-"""
 import sys
 
 while True:
