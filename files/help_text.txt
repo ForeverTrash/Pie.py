@@ -1,0 +1,33 @@
+                  _____ _                    
+                 |  __ (_)                   
+                 | |__) |  ___   _ __  _   _ 
+                 |  ___/ |/ _ \ | '_ \| | | |
+                 | |   | |  __/_| |_) | |_| |
+                 |_|   |_|\___(_) .__/ \__, |
+                                | |     __/ |
+                                |_|    |___/ 
+
+  	                PIE.py Tool-kit
+            _________________________________________
+
+	           Created by Russ Steighler
+	               Copyright (C) 2021 
+            _________________________________________
+
+  The goal of this module is to simplify mathematical functions
+          and scientific operations to streamline work
+	     
+            _________________________________________
+
+	Below are all the functions/programs available for use
+ 	 	  and their corresponding commands
+
+            _________________________________________
+
+   To open this dialogue. = ["HELP", "Help", "/H", "/h", "/Help", "/help"]
+ 
+    Pi Squared: A program that squares pi to any power of your choosing
+         = ["Pi", "pi", "/Pi", "/pi", "pi squared", "Pi squared"]
+
+  Close this program. = ["quit()", "Quit()", "quit", "Quit", "/Quit", "/quit"]
+    
